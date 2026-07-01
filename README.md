@@ -13,8 +13,8 @@ I'm currently studying IT and working towards becoming a Software Developer.
 
 Current Project
 
- Zamani Market(complete)
- Capstone Project- Still in research phase
+ - Zamani Market(complete)
+ - Capstone Project- Still in research phase
 
 ---
 
